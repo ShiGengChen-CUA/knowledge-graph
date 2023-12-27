@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "relation-graph": "^2.1.24"
+  }
+}
